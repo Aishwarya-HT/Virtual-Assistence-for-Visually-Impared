@@ -1,4 +1,4 @@
-
+#virtual assistence for visually impared
 import speech_recognition as sr # recognise speech
 import playsound # to play an audio files
 from gtts import gTTS # google text to speech
